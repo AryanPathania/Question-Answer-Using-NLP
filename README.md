@@ -1,5 +1,5 @@
 # Question-Answer-Using-NLP
-THis model tries to answer a question using the context provided. 
+This model tries to answer a question using the context provided. 
 
 In **Question Answering.ipynb** file I have directly used **pipeline** from transforms library to answer a question.
 
